@@ -1,0 +1,19 @@
+FOR SERVER SIDE
+Run Display1.java to start the mainserver.
+in the SERVER GUI
+admin can change the price values of stock at any time to any value.
+Admin can enter any symbol values in the textfeild and watch how the bids
+are going on....
+some of the popular symbols are in combBox.
+
+
+
+
+for CLIENT SIDE
+
+use nc to connect
+Enter the Name
+Enter the Symbol
+now you can bid
+you can't enter a bid less than the presant bid value .
+current bid values is shown untill the admin change the price of it..
